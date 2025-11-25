@@ -5,7 +5,7 @@
     --main-color: #74ff72;
     --bg-color: #ffffff;
     --second-bg-color: #efefef;
-    --text-color: #ffffff;
+    --text-color: #131313;
     --dark-color-1: #00000015;
     --dark-color-2: #00000033;
     --shadow-light: 0 0 50px var(--dark-color-1);
@@ -98,6 +98,7 @@ a {
 }
 
 .navbar a h2 {
+    color: var(--text-color);
     display: none;
     width: 250px;
     height: 70px;
@@ -462,3 +463,4 @@ a {
     opacity: 0%;
     transform: translateX(-110%);
 }
+
