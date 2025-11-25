@@ -22,7 +22,7 @@ navbar.innerHTML = `
                 </button>
                 <h2>Catergories</h2>
             </a>
-            <a href="https://fleto.vercel.app">
+            <a href="https://fletodesigns.vercel.app">
                 <button>
                     <img src="/img/fleto-bl.png" alt="fleto logo" />
                 </button>
@@ -76,5 +76,6 @@ searchBar.innerHTML = `
                 <button id="searchBtn">
                     <i class="bx bx-search"></i>
                 </button>`;
+
 
 
